@@ -1,82 +1,96 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Lisa",
+		name: "Lisa P.",
+		email: "lis.rui.05@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/lisapei/",
+		linkedin: "https://linkedin.com/in/lisa-p-694965129/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Welcome to Lisa Pei's Portfolio!",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"With over three years of experience in fintech, essential technology, and supply chain industries, I approach challenges with an entrepreneurial spirit and a growth mindset. I specialize in client business analysis, business integration and management, software development, and optimization problem-solving. Proficient in data analysis, SQL, and Google Analytics, I bring expertise in workflow optimization, agile methodologies, user acceptance testing, and client communication. Having shipped million-dollar software products, I continue to launch more, including zero to one products. Let's collaborate to drive impactful solutions together!",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I design solutions for \n problems worth solving:",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"What I do - \n\n Understand root cause for pain points and who I am solving it for. \n My three focus areas are scaling products, web and mobile development, and get buy-ins from cross functional teams. \n \n What I use - \n\n Finding the tools that work the best for the team I am in but highlights include Notion, JIRA, Confluence, MIRO, Postman, Figma, Lucid Chart, UXtweak, Pendo, and Qualtrics. \n \n What you can expect  - \n\n I make products feasible, shippable, and usable that scale through a data-driven and user first approach.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "My Work Experience",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"I hope to provide more insights here to the products I have scoped, advocated for, prototyped, tested, and shipped.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Reiki Product Hunt Campaign",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Consulted for Reiki (the next fen ALGC platform with proof of creativity, dataset, chatbot), receiving number 1 spot on Product Hunt and delivered better SEO through landing page optimization.",
+			logo: "https://cdn.ainave.com/public/media/variants/reiki-by-web3go-logo-180x180.webp",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://www.producthunt.com/products/reiki-by-web3go/reviews",
 		},
 
 		{
-			title: "Project 2",
+			title: "Solana - Hackthon Organization",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Consulting contract for organizing Solana’s (an open-source blockchain platform aimed to providing the open infrastructure required for global adoption) 2024 Hackathon.",
+			logo: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pI4GkDyECAK-O4Sg533hmw.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://solana.com/news/tag/hackathon",
 		},
 
 		{
-			title: "Project 3",
+			title: "Matterverse - Luxury Retail Virtual Reality Scope",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Scoped a feature branch for Matterverse (pre-seed start with web3 application of metaverse creator economy) from metaverse creator economy to building virtual reality shopping experience for luxury retailers.",
+			logo: "https://cdn-images-1.medium.com/fit/c/72/72/1*eGZVg-caZVMY0qudYDZuQg.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://youtu.be/pGKAowE5Z58?si=ncXz3-I4Du-s2HvX",
 		},
 
 		{
-			title: "Project 4",
+			title: "Fibre Cycle Product Mockup",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Scoped and designed chrome extension feature to help eco-conscious online shoppers make informed purchase decisions based on the environmental impact of the clothing they are browsing.",
+			logo: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFWdLY36gSt50dNWTIkiIkSRyw67UY3U8mY4lFYYo29BNi9NaO",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://drive.google.com/file/d/1a2sDgEfDcrWsfTRnRUK3KemidwAv-f37/view?usp=sharing",
 		},
 
 		{
-			title: "Project 5",
+			title: "Mine - Product Feature Expansion",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Pro-bono consulting project focused on improving user experience with data deletion request feature for a data privacy management startup, Mine (backed by Battery Ventures and PayPal Ventures).",
+			logo: "https://www.datanami.com/wp-content/uploads/2023/12/Mine_Logo-scaled.jpg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://docs.google.com/presentation/d/1Fa3J180aicSlgDFmhaOyBl104Yb5GIHULvmoxmzlHtY/edit?usp=sharing",
+		},
+
+		{
+			title: "Open Government Challenge",
+			description:
+				"Winner of the open government student challenge through founding the Financial Literacy Youth Network (FLYN) in Canada. FLYN is Canada’s first federally-recognized network focused on financial literacy for youth. FLYN is a network of organizations that work towards empowering Canadian youth by breaking down the barriers to financial literacy by using data.",
+			logo: "https://scontent.fyto3-1.fna.fbcdn.net/v/t39.30808-1/307773049_146866984707492_43161739480083726_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CB9eeApaHqUAX_aSB0W&_nc_ht=scontent.fyto3-1.fna&oh=00_AfCED8ZVWhKMsFNUgM9bwbcuqu4JTVbb1vrRcgO1YdQ1Iw&oe=65FD945F",
+			linkText: "View Project",
+			link: "https://open.canada.ca/en/blog/these-youth-care-about-future-open-government",
+		},
+
+		{
+			title: "Scotiabank Internal Hackathon",
+			description:
+				"Planned Scotiabank velocITy program's first fully virtual hackathon to drive fintech innovation through customer-centric problem scope.",
+			logo: "https://logosandtypes.com/wp-content/uploads/2020/08/scotiabank.svg",
+			linkText: "View Project",
+			link: "https://www.linkedin.com/posts/activity-6690029821268959232-mgXa?utm_source=share&utm_medium=member_desktop",
 		},
 	],
 };

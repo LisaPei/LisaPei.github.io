@@ -41,11 +41,11 @@ const About = () => {
 					<div className="about-container">
 						<div className="about-main">
 							<div className="about-right-side">
-								<div className="title about-title">
+								<div className="title about-title" style={{ whiteSpace: 'pre-line' }}>
 									{INFO.about.title}
 								</div>
 
-								<div className="subtitle about-subtitle">
+								<div className="subtitle about-subtitle" style={{ whiteSpace: 'pre-line' }}>
 									{INFO.about.description}
 								</div>
 							</div>

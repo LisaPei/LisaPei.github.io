@@ -22,7 +22,7 @@ const Articles = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`Articles | ${INFO.main.title}`}</title>
+				<title>{`Experience | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -60,7 +60,7 @@ const Articles = () => {
 											date={article().date}
 											title={article().title}
 											description={article().description}
-											link={"/article/" + (index + 1)}
+											link={"/experience/" + (index + 1)}
 										/>
 									</div>
 								))}
